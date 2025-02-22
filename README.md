@@ -14,11 +14,6 @@ C is often referred to as the "mother of all languages," and for good reason. It
 - **Process Management**: Using `fork()` and `execvp()` to create child processes and execute commands.
 - **Signal Handling**: Gracefully handling user interrupts (Ctrl+C).
 
-## Getting Started
-
-Clone this repository to start contributing and playing with the project:
-
-
 ## Roadmap
 
 1. Learn C basics and understand how processes work.
